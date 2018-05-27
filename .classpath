@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="src/json-20090211.jar"/>
+	<classpathentry kind="lib" path="src/commons-beanutils-1.7.0.jar"/>
+	<classpathentry kind="lib" path="src/commons-collections-3.2.jar"/>
+	<classpathentry kind="lib" path="src/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="src/commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="src/ezmorph-1.0.4.jar"/>
+	<classpathentry kind="lib" path="src/json-lib-2.2.3-jdk13.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/gson-2.4.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/json-lib-2.2.3-jdk13.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/ezmorph-1.0.4.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/commons-beanutils-1.7.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/zgm_better_zj/Desktop/JAVA/servlet-api.jar"/>
+	<classpathentry kind="lib" path="D:/apache-tomcat-7.0.70-windows-x64/apache-tomcat-7.0.70/lib/annotations-api.jar"/>
+	<classpathentry kind="lib" path="D:/apache-tomcat-7.0.70-windows-x64/apache-tomcat-7.0.70/lib/catalina.jar"/>
+	<classpathentry kind="lib" path="D:/apache-tomcat-7.0.70-windows-x64/apache-tomcat-7.0.70/lib/catalina-ant.jar"/>
+	<classpathentry kind="lib" path="D:/apache-tomcat-7.0.70-windows-x64/apache-tomcat-7.0.70/lib/catalina-ha.jar"/>
+	<classpathentry kind="lib" path="D:/apache-tomcat-7.0.70-windows-x64/apache-tomcat-7.0.70/lib/catalina-tribes.jar"/>
+	<classpathentry kind="lib" path="D:/apache-tomcat-7.0.70-windows-x64/apache-tomcat-7.0.70/lib/ecj-4.4.2.jar"/>
+	<classpathentry kind="lib" path="D:/apache-tomcat-7.0.70-windows-x64/apache-tomcat-7.0.70/lib/el-api.jar"/>
+	<classpathentry kind="lib" path="D:/apache-tomcat-7.0.70-windows-x64/apache-tomcat-7.0.70/lib/jasper.jar"/>
+	<classpathentry kind="lib" path="D:/apache-tomcat-7.0.70-windows-x64/apache-tomcat-7.0.70/lib/jasper-el.jar"/>
+	<classpathentry kind="lib" path="D:/apache-tomcat-7.0.70-windows-x64/apache-tomcat-7.0.70/lib/jsp-api.jar"/>
+	<classpathentry kind="lib" path="D:/apache-tomcat-7.0.70-windows-x64/apache-tomcat-7.0.70/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="D:/apache-tomcat-7.0.70-windows-x64/apache-tomcat-7.0.70/lib/tomcat7-websocket.jar"/>
+	<classpathentry kind="lib" path="D:/apache-tomcat-7.0.70-windows-x64/apache-tomcat-7.0.70/lib/tomcat-api.jar"/>
+	<classpathentry kind="lib" path="D:/apache-tomcat-7.0.70-windows-x64/apache-tomcat-7.0.70/lib/tomcat-coyote.jar"/>
+	<classpathentry kind="lib" path="D:/apache-tomcat-7.0.70-windows-x64/apache-tomcat-7.0.70/lib/tomcat-dbcp.jar"/>
+	<classpathentry kind="lib" path="D:/apache-tomcat-7.0.70-windows-x64/apache-tomcat-7.0.70/lib/tomcat-i18n-es.jar"/>
+	<classpathentry kind="lib" path="D:/apache-tomcat-7.0.70-windows-x64/apache-tomcat-7.0.70/lib/tomcat-i18n-fr.jar"/>
+	<classpathentry kind="lib" path="D:/apache-tomcat-7.0.70-windows-x64/apache-tomcat-7.0.70/lib/tomcat-i18n-ja.jar"/>
+	<classpathentry kind="lib" path="D:/apache-tomcat-7.0.70-windows-x64/apache-tomcat-7.0.70/lib/tomcat-jdbc.jar"/>
+	<classpathentry kind="lib" path="D:/apache-tomcat-7.0.70-windows-x64/apache-tomcat-7.0.70/lib/tomcat-util.jar"/>
+	<classpathentry kind="lib" path="D:/apache-tomcat-7.0.70-windows-x64/apache-tomcat-7.0.70/lib/websocket-api.jar"/>
+	<classpathentry kind="lib" path="D:/Users/ZGM/Desktop/JAVA/mysql-connector-java-5.1.39.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
